@@ -6,6 +6,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+    // Probando
+
     // SOCIAL PANEL JS
     const floating_btn = document.querySelector('.floating-btn');
     const close_btn = document.querySelector('.close-btn');
